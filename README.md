@@ -1,46 +1,35 @@
 # MTAP Core integration/staging repository
 
-MTAP Core is a decentralized, peer-to-peer cryptocurrency with a primary focus on energy-efficiency and scalabilty. The MTAP Network makes use of only Proof-of-Stake mining, in the form of masternodes and staking. This means that the MTAP blockchain has a very low impact on the environment and ensures that scaling will be a smooth transition in future. 
+❦ ABOUT MTAP COIN
+❧ 🔐 DECENTRALIZATION:
+MTAP is a decentralized cryptocurrency trading platform  which aims to provide traders with a secure and easy way to buy and sell cryptocurrencies and tokens online instantly.
 
-Furthermore, as result of offering multiple ways for users to mint new MTAP coins, the network is a lot less centralized than some Proof-of-Work coins that have their hashrates dominated by one or two mining pools.
+❧ Ⓜ️ MTAP Coin:
+MTAP Coin is a private and anonymous cryptocurrency. MTAP uses hybrid PoS+Masternode consensus to secure its blockchain and provides coin holders with full-time private and instant transactions. Paying for the listing fees and trading fees in MTAP Trading Platform is the main use-case of MTAP Coin.
 
-### View the MTAP whitepaper here: 
+❧ 💰PROFIT SHARE:
+MTAP shares 50% of total profits (including trading fees and listing fees) with MN holders. So profit come not only from trading.
 
-#### https://cdn.discordapp.com/attachments/416697792048922636/461555510496329728/MTAP-Whitepaper-v1.0.0.pdf
+❧ 📊 TRADERS' REWARD:
+Traders will receive a certain amount of MTAP Coin as a trading reward for each transaction based on the transaction volume.
+❦ OUR BEST SERVICES
+Special Services to give traders the best experience ever!
 
-## Coin Specs
+Through our MTAP COIN currency it will be possible to access a series of exclusive services dedicated to our members such as:
 
-#
+🏆 Trading Platform    🏆 Crypto Online Wallet
+🏆 Arbitrage Software  🏆 Trading Signals
 
-#### Block times: - *1 minute* 
-#### Maximum supply: - *5,000,000 (5 million) MTAP*
-#### Consensus mechanism: - *Proof-of-Stake (85% masternodes, 15% stakers)*
-#### Algorithm: - *Quark-hash* 
-#### Masternode collateral - *2,500 MTAP*  
-#### Features: - *SwiftTX, budget, treausury and masternode governance is enabled* 
-#### RPC Port: - *6934* 
-#### P2P Port: - *6933* 
+Exchnage :
+Escodex - https://wallet.escodex.com/market/ESCODEX.MTAP_ESCODEX.BTC
 
-#
-
-### Block reward breakdown (Block height - Reward per block)
-#
-#### Block 201-30,000	  -   *5.000 MTAP*
-
-#### Block 30,001-200,000   -   *3.750 MTAP*
-
-#### Block 200,001-500,000  -   *2.500 MTAP*
-
-#### Block 500,001-900,000  -   *1.250 MTAP*
-
-#### Block 900,001-1,500,000  -  *0.500 MTAP*
-
-#### Block 1,500,001-6,000,000   -   *0.250 MTAP*
-
-#### *11 year tapering inflation reward, with a cumulative supply capped at 5,000,000 MTAP.*
-
-#
+Important links:
+Website: https://mtap.io/
+Twitter: https://twitter.com/CoinMtap
+Bitcoin Talk Thread: https://bitcointalk.org/index.php?topic=5108692.0
+Github: https://github.com/MTAPcoin/MTAP/releases
+Contact team:  Contact team: contact@mtap.io
 
 ### More information at [https://mtap.network](https://mtap.network)
-### Join our [Discord!](https://discord.gg/9nzt37V)
+### Join our [Discord!](https://discord.gg/NU8e2aD).
 
