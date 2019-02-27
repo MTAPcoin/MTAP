@@ -24,11 +24,11 @@ Exchnage :
 Escodex - https://wallet.escodex.com/market/ESCODEX.MTAP_ESCODEX.BTC
 
 Important links:
-Website: https://mtap.io/
-Twitter: https://twitter.com/CoinMtap
-Bitcoin Talk Thread: https://bitcointalk.org/index.php?topic=5108692.0
-Github: https://github.com/MTAPcoin/MTAP/releases
-Contact team:  Contact team: contact@mtap.io
+Website: https://mtap.io/ .
+Twitter: https://twitter.com/CoinMtap .
+Bitcoin Talk Thread: https://bitcointalk.org/index.php?topic=5108692.0 .
+Github: https://github.com/MTAPcoin/MTAP/releases .
+Contact team:  Contact team: contact@mtap.io .
 
 ### More information at [https://mtap.network](https://mtap.network)
 ### Join our [Discord!](https://discord.gg/NU8e2aD).
