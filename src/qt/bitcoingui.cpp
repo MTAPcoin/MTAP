@@ -611,7 +611,7 @@ void BitcoinGUI::createToolBars()
         QFrame* frameToolbar = new QFrame;
         frameToolbar->setContentsMargins(0, 0, 0, 0);
         frameToolbar->setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Expanding);
-        frameToolbar->setStyleSheet(".QFrame { margin-left:-0px; background-color: #003046; }");
+        frameToolbar->setStyleSheet(".QFrame { margin-left:-0px; background-color: #1880af; }");
 
         QVBoxLayout* frameToolbarLayout = new QVBoxLayout(frameToolbar);
         frameToolbarLayout->setContentsMargins(0, 0, 0, 0);
