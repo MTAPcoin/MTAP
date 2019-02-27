@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MTAP
+Comment=MTAP P2P Cryptocurrency
+Exec=mtap-qt %u
+Terminal=false
+Type=Application
+Icon=mtap128
+MimeType=x-scheme-handler/mtap;
+Categories=Office;Finance;
+Name[en_US]=mtap-qt.desktop

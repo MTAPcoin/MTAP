@@ -1,0 +1,26 @@
+[Unit]
+Description=MTAP's distributed currency daemon
+After=network.target
+
+[Service]
+User=mtap
+Group=mtap
+
+Type=forking
+PIDFile=/var/lib/mtapd/mtapd.pid
+
+ExecStart=/usr/bin/mtapd -daemon -pid=/var/lib/mtapd/mtapd.pid \
+          -conf=/etc/mtap/mtap.conf -datadir=/var/lib/mtapd
+
+ExecStop=-/usr/bin/mtap-cli -conf=/etc/mtap/mtap.conf \
+         -datadir=/var/lib/mtapd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

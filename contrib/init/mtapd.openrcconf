@@ -1,0 +1,26 @@
+# /etc/conf.d/mtapd: config file for /etc/init.d/mtapd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/mtap/mtap.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/mtapd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/mtapd.pid"
+
+# Where to write mtapd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/mtapd"
+
+# User and group to own mtapd process
+#BITCOIND_USER="mtap"
+#BITCOIND_GROUP="mtap"
+
+# Path to mtapd executable
+#BITCOIND_BIN="/usr/bin/mtapd"
+
+# Nice value to run mtapd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
